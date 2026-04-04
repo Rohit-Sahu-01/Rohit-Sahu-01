@@ -127,10 +127,10 @@ Digital services platform for small businesses with a sales and orders dashboard
 
 <div align="center">
 
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit-Sahu-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)
+<!--![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit-Sahu-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Sahu-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9)
-
+-->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Sahu-01&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
 
 </div>
