@@ -101,7 +101,7 @@ With **4+ years of hands-on experience**, I've worked across the full stack — 
 
 Full-stack ride booking system connecting drivers and passengers. Built RESTful APIs for ride requests, driver availability tracking, and complete trip history management.
 
-🔗 [View Repo](https://github.com/Rohit-Sahu-01) &nbsp;·&nbsp; 🌐 [Live Demo](#)
+
 
 ---
 
@@ -110,7 +110,7 @@ Full-stack ride booking system connecting drivers and passengers. Built RESTful 
 
 Dynamic admin dashboard with role-based access control, JWT + Bcrypt authentication, and cloud-based file upload support. Fully functional REST API backend.
 
-🔗 [View Repo](https://github.com/Rohit-Sahu-01) &nbsp;·&nbsp; 🌐 [Live Demo](#)
+
 
 ---
 
@@ -119,7 +119,7 @@ Dynamic admin dashboard with role-based access control, JWT + Bcrypt authenticat
 
 Digital services platform for small businesses with a sales and orders dashboard. Delivered end-to-end from requirements gathering through client testing and deployment.
 
-🔗 [View Repo](https://github.com/Rohit-Sahu-01)
+
 
 ---
 
