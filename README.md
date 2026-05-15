@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Email-rohitsahu98377@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1mZna6S2BgDFsImHjNPkDSfEC4MgTiO0j/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1pbP80wOqpMxMlec3t7Xv8dXx1JB0m1Ep/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-View%20CV-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
   </a>
   &nbsp;
